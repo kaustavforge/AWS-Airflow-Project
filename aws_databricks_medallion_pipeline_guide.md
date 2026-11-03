@@ -195,7 +195,7 @@ To allow your local code/Airflow user (`kaustavvs`) to trigger Glue jobs:
    }
    ```
 
-4. Name the policy and click **Create policy**.
+4. Name the policy - kaustavvs_inlinepolicytrigger and click **Create policy**.
 
 ### 3.3 Create Glue Spark Job 1: Delta Format (`silver-layer`)
 
